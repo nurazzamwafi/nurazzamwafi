@@ -14,5 +14,6 @@ about me:
 ---
 
 🎮 I love playing dota and chess
+
 💻 Currently learning web development
 
