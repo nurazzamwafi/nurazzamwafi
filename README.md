@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**nurazzamwafi/nurazzamwafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Wafi
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+about me:
+
+- 👦 Nur Azzam Wafiuddin is my full name
+- 🏫 Student of Information Technology at Universitas Gadjah Mada (UGM)
+- 📆 Studied in UGM since 2021
+- 📍 I am from Sleman, DIY
+
+---
+
+🎮 I love playing dota and chess
+💻 Currently learning web development
+
